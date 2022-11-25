@@ -13,7 +13,7 @@
         "events": [{
             "function": "app.handler",
             "event_source": {
-                  "arn":  "arn:aws:s3:::buckettosaveimagesofanimalsforbigdata",
+                  "arn":  "arn:aws:s3:::imagenesparcial3",
                   "events": [
                     "s3:ObjectCreated:*"
                   ]
